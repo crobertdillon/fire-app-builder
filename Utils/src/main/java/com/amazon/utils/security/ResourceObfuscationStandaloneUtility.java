@@ -55,7 +55,7 @@ public class ResourceObfuscationStandaloneUtility {
      */
     private static String getPlainTextToEncrypt() {
 
-        return "Encrypt_this_text";
+        return "HD3ZTW5SFM23GPXWNXCT";
     }
 
     /**
@@ -67,9 +67,9 @@ public class ResourceObfuscationStandaloneUtility {
     private static String[] getRandomStringsForKey() {
 
         return new String[]{
-                "calypso",
-                "something_random",
-                "more_random_stuff"
+                "ehP7sX",
+                "^Vg*6kJ",
+                ".E2dQ"
         };
     }
 
@@ -82,8 +82,9 @@ public class ResourceObfuscationStandaloneUtility {
     private static String[] getRandomStringsForIv() {
 
         return new String[]{
-                "dadadadada",
-                "qwertfghyufksld"
+                "yxNgR+7H",
+                ".fbN6@r",
+                "n+2MpbV"
         };
     }
 }
