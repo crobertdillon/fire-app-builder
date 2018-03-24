@@ -74,7 +74,7 @@ permissions and limitations under the License.
     <!-- App icon -->
     <drawable name="app_logo">@mipmap/ic_launcher</drawable>
     <!-- App banner. Note: Used for Google Play Store -->
-    <drawable name="app_banner">@drawable/placeholder_banner</drawable>
+    <drawable name="app_banner">@drawable/placeholder_banner_poop</drawable>
     <!-- Content preview window customization -->
     <dimen name="content_image_height">350dp</dimen>
     <dimen name="content_image_width">540dp</dimen>
@@ -131,7 +131,7 @@ permissions and limitations under the License.
 
     <!-- End of Authentication Customization -->
 
-    <string name="ad_tag">https://pubads.g.doubleclick.net/gampad/ads?sz=1000x1000&amp;iu=/7287/ltv.wqad.video&amp;cust_params=s1%3Dctv%26slot%3Dvideo%26pos%3Dpre&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=vast&amp;unviewed_position_start=1&amp;description_url=http://www.MyFox8.com&amp;url=[referrer_url]&amp;correlator=[TIMESTAMP]&amp;device=androidtv</string>
+    <string name="ad_tag">https://pubads.g.doubleclick.net/gampad/ads?sz=1000x1000&amp;iu=/7287/ltv.wqad.video&amp;cust_params=s1%3Dctv%26slot%3Dvideo%26pos%3Dpre&amp;impl=s&amp;gdfp_req=1&amp;env=vp&amp;output=vast&amp;unviewed_position_start=1&amp;description_url=http://www.wqad.com&amp;url=[referrer_url]&amp;correlator=[TIMESTAMP]&amp;device=androidtv</string>
 
     <!-- Encrypted Flurry API key, override this with your own encrypted API key -->
     <string name="encrypted_flurry_api_key">RMiIYazrK++8BxzRqr+6JCAIBgHNNjc+6LJ8jXDfOlc=</string>
